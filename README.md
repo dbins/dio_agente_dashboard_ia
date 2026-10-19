@@ -2,6 +2,8 @@
 
 Dashboard executivo de performance de vendas desenvolvido em **HTML5/JS único** com estilização baseada no **Porsche Design System** (estética minimalista, técnica, moderna e de alto contraste).
 
+[Link Dashboard](https://dbins.github.io/dio_agente_dashboard_ia/)
+
 ---
 
 ## 📌 Resumo do Projeto
